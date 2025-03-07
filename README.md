@@ -46,8 +46,8 @@
 
 ## 📊 ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ
 
-[<img src="https://github-readme-stats.vercel.app/api?username=itzsandeepsharma&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/itzsandeepsharma)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=itzsandeepsharma&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/itzsandeepsharma)
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzsandeepsharma&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000" width="49%">](https://github.com/itzsandeepsharma)
+[<img src="https://github-readme-stats.vercel.app/api?username=sandeepshrmadev&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/sandeepshrmadev)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepshrmadev&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/sandeepshrmadev)  
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepshrmadev&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000" width="49%">](https://github.com/sandeepshrmadev)
 
 ---
 
