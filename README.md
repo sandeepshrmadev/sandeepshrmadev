@@ -1,4 +1,4 @@
-<h1 align="center">ʜᴇʏ ᴛʜᴇʀᴇ ɪᴛ'ꜱ ᴍᴇ 𝚂αɴɖεερ 𝚂ʜαяɱα</h1>
+<h1 align="center">ʜᴇʏ ᴛʜᴇʀᴇ ɪᴛ'ꜱ ᴍᴇ sαɴɖεερ sʜαяɱα</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=ᴘʏᴛʜᴏɴ+ᴇɴᴛʜᴜꜱɪᴀꜱᴛ+%7C+ᴛᴇᴄʜ+ᴇxᴘʟᴏʀᴇʀ;ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ+ᴀʙᴏᴜᴛ+ᴊᴀᴘᴀɴ+🇯🇵+%7C+ᴏᴘᴇɴ+ꜱᴏᴜʀᴄᴇ+ʟᴏᴠᴇʀ;ʟɪꜰᴇʟᴏɴɢ+ʟᴇᴀʀɴᴇʀ+%7C+ᴘʀᴏʙʟᴇᴍ+ꜱᴏʟᴠᴇʀ" alt="Typing SVG" />
